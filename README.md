@@ -1,11 +1,11 @@
 # Anti-Money-Laundering-Network-Analytics-
-Project Title: Anti-Money Laundering (AML) Network Analytics in AML
+Project Title: Anti-Money Laundering (AML) Network Analytics
 
 Introduction:
 
 Rapid developments in financial information, technology, and communication have facilitated the movement of money anywhere in the world with speed and ease. This makes the task of combating money laundering more urgent than ever. Every year, US$800 billion to US$2 trillion is laundered. This is about 2−5 percent of the global GDP.3 To address this challenge, governments and regulators across the world have come up with legislation and guidelines that have evolved over the years. AML compliance for banks is no longer a standalone function but one that is increasingly complex. Its scope covers functions such as legal, risk, operations, and tax. With ignorance no longer being excused, minimum compliance with regulatory obligations is no longer enough.
 
-Backgroung:
+Background:
 
 Recent years have witnessed a growing number of highly publicized money laundering scandals involving major international providers of diversified financial services and their correspondents in ‘‘off-shore’’ jurisdictions, such as Russia, other former Soviet Republics, Latin America and the Caribbean (IFAC, 2002). In response, governments and legal authorities in various jurisdictions have issued an accelerated level of pronouncements and taken other enforcement steps focused on combating ML and related financial crime. In 1989, the Group of Seven Industrial Democracies (G-7) created a global ML watchdog organization called the Financial Action Task Force (FATF). In 1990, the FATF issued its first annual report, containing its FATF 40 Recommendations, which are a most important set of international AML standards and they have been a substantial motivation in facilitating government AML initiatives. An important element and theme of the FATF 40 Recommendations is the know Your Customer (KYC) or enhanced due diligence principles. KYC guidelines require or recommend developing a keen understanding, through appropriate due diligence, of whom the true beneficial owners and parties to transactions are, the source and intended use of funds and the appropriateness and reasonableness of the business activity and pattern of transactions in the context of business (IFAC, 2002). In addition, FATF also recommended implementing Suspicious Activity Reporting (SAR) models, record keeping, and AML controls as part of overall AML regimes.
 
